@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/PKG-INFO
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/SOURCES.txt
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/dependency_links.txt
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/entry_points.txt
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/requires.txt
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/top_level.txt
+../../build/turtlebot3_apriltag/turtlebot3_apriltag.egg-info/zip-safe
+resource/turtlebot3_apriltag
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+turtlebot3_apriltag/__init__.py
+turtlebot3_apriltag/tb_detect_apriltags.py

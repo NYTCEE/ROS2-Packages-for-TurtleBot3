@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/apriltag_detector/apriltag_detector.egg-info/PKG-INFO
+../../build/apriltag_detector/apriltag_detector.egg-info/SOURCES.txt
+../../build/apriltag_detector/apriltag_detector.egg-info/dependency_links.txt
+../../build/apriltag_detector/apriltag_detector.egg-info/entry_points.txt
+../../build/apriltag_detector/apriltag_detector.egg-info/requires.txt
+../../build/apriltag_detector/apriltag_detector.egg-info/top_level.txt
+../../build/apriltag_detector/apriltag_detector.egg-info/zip-safe
+apriltag_detector/__init__.py
+apriltag_detector/detect_apriltags.py
+resource/apriltag_detector
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

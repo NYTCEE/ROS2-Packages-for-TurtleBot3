@@ -1,0 +1,41 @@
+[1.449s] Invoking command in '/home/naomichen/ros2_ws/src/turtlebot3_avoidance': PYTHONPATH=/home/naomichen/ros2_ws/build/turtlebot3_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_avoidance build --build-base /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build install --record /home/naomichen/ros2_ws/build/turtlebot3_avoidance/install.log --single-version-externally-managed install_data
+[1.936s] running egg_info
+[1.937s] creating ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info
+[1.937s] writing ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/PKG-INFO
+[1.938s] writing dependency_links to ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/dependency_links.txt
+[1.938s] writing entry points to ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/entry_points.txt
+[1.938s] writing requirements to ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/requires.txt
+[1.938s] writing top-level names to ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/top_level.txt
+[1.939s] writing manifest file '../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/SOURCES.txt'
+[1.941s] reading manifest file '../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/SOURCES.txt'
+[1.943s] writing manifest file '../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info/SOURCES.txt'
+[1.943s] running build
+[1.943s] running build_py
+[1.943s] creating /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build
+[1.943s] creating /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build/lib
+[1.944s] creating /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build/lib/turtlebot3_avoidance
+[1.944s] copying turtlebot3_avoidance/obstacle_avoidance.py -> /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build/lib/turtlebot3_avoidance
+[1.944s] copying turtlebot3_avoidance/__init__.py -> /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build/lib/turtlebot3_avoidance
+[1.944s] running install
+[1.945s] running install_lib
+[1.946s] creating /home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance
+[1.946s] copying /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build/lib/turtlebot3_avoidance/obstacle_avoidance.py -> /home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance
+[1.946s] copying /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build/lib/turtlebot3_avoidance/__init__.py -> /home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance
+[1.947s] byte-compiling /home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance/obstacle_avoidance.py to obstacle_avoidance.cpython-310.pyc
+[1.947s] byte-compiling /home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance/__init__.py to __init__.cpython-310.pyc
+[1.947s]   File "/home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance/obstacle_avoidance.py", line 6
+[1.948s]     	def__init__(self):
+[1.948s]     	                 ^
+[1.948s] SyntaxError: invalid syntax
+[1.948s] 
+[1.948s] running install_data
+[1.948s] creating /home/naomichen/ros2_ws/install/turtlebot3_avoidance/share/ament_index
+[1.949s] creating /home/naomichen/ros2_ws/install/turtlebot3_avoidance/share/ament_index/resource_index
+[1.949s] creating /home/naomichen/ros2_ws/install/turtlebot3_avoidance/share/ament_index/resource_index/packages
+[1.949s] copying resource/turtlebot3_avoidance -> /home/naomichen/ros2_ws/install/turtlebot3_avoidance/share/ament_index/resource_index/packages
+[1.949s] copying package.xml -> /home/naomichen/ros2_ws/install/turtlebot3_avoidance/share/turtlebot3_avoidance
+[1.949s] running install_egg_info
+[1.951s] Copying ../../build/turtlebot3_avoidance/turtlebot3_avoidance.egg-info to /home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance-0.0.0-py3.10.egg-info
+[1.952s] running install_scripts
+[1.986s] writing list of installed files to '/home/naomichen/ros2_ws/build/turtlebot3_avoidance/install.log'
+[2.017s] Invoked command in '/home/naomichen/ros2_ws/src/turtlebot3_avoidance' returned '0': PYTHONPATH=/home/naomichen/ros2_ws/build/turtlebot3_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_avoidance build --build-base /home/naomichen/ros2_ws/build/turtlebot3_avoidance/build install --record /home/naomichen/ros2_ws/build/turtlebot3_avoidance/install.log --single-version-externally-managed install_data

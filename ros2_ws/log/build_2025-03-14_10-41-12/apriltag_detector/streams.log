@@ -1,0 +1,37 @@
+[2.024s] Invoking command in '/home/naomichen/ros2_ws/src/apriltag_detector': PYTHONPATH=/home/naomichen/ros2_ws/build/apriltag_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/apriltag_detector build --build-base /home/naomichen/ros2_ws/build/apriltag_detector/build install --record /home/naomichen/ros2_ws/build/apriltag_detector/install.log --single-version-externally-managed install_data
+[2.495s] running egg_info
+[2.498s] creating ../../build/apriltag_detector/apriltag_detector.egg-info
+[2.498s] writing ../../build/apriltag_detector/apriltag_detector.egg-info/PKG-INFO
+[2.499s] writing dependency_links to ../../build/apriltag_detector/apriltag_detector.egg-info/dependency_links.txt
+[2.500s] writing entry points to ../../build/apriltag_detector/apriltag_detector.egg-info/entry_points.txt
+[2.500s] writing requirements to ../../build/apriltag_detector/apriltag_detector.egg-info/requires.txt
+[2.501s] writing top-level names to ../../build/apriltag_detector/apriltag_detector.egg-info/top_level.txt
+[2.502s] writing manifest file '../../build/apriltag_detector/apriltag_detector.egg-info/SOURCES.txt'
+[2.507s] reading manifest file '../../build/apriltag_detector/apriltag_detector.egg-info/SOURCES.txt'
+[2.509s] writing manifest file '../../build/apriltag_detector/apriltag_detector.egg-info/SOURCES.txt'
+[2.510s] running build
+[2.510s] running build_py
+[2.511s] creating /home/naomichen/ros2_ws/build/apriltag_detector/build
+[2.511s] creating /home/naomichen/ros2_ws/build/apriltag_detector/build/lib
+[2.511s] creating /home/naomichen/ros2_ws/build/apriltag_detector/build/lib/apriltag_detector
+[2.512s] copying apriltag_detector/detect_apriltags.py -> /home/naomichen/ros2_ws/build/apriltag_detector/build/lib/apriltag_detector
+[2.512s] copying apriltag_detector/__init__.py -> /home/naomichen/ros2_ws/build/apriltag_detector/build/lib/apriltag_detector
+[2.513s] running install
+[2.514s] running install_lib
+[2.516s] creating /home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages/apriltag_detector
+[2.516s] copying /home/naomichen/ros2_ws/build/apriltag_detector/build/lib/apriltag_detector/detect_apriltags.py -> /home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages/apriltag_detector
+[2.517s] copying /home/naomichen/ros2_ws/build/apriltag_detector/build/lib/apriltag_detector/__init__.py -> /home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages/apriltag_detector
+[2.518s] byte-compiling /home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages/apriltag_detector/detect_apriltags.py to detect_apriltags.cpython-310.pyc
+[2.520s] byte-compiling /home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages/apriltag_detector/__init__.py to __init__.cpython-310.pyc
+[2.520s] running install_data
+[2.521s] creating /home/naomichen/ros2_ws/install/apriltag_detector/share/ament_index
+[2.521s] creating /home/naomichen/ros2_ws/install/apriltag_detector/share/ament_index/resource_index
+[2.521s] creating /home/naomichen/ros2_ws/install/apriltag_detector/share/ament_index/resource_index/packages
+[2.521s] copying resource/apriltag_detector -> /home/naomichen/ros2_ws/install/apriltag_detector/share/ament_index/resource_index/packages
+[2.522s] copying package.xml -> /home/naomichen/ros2_ws/install/apriltag_detector/share/apriltag_detector
+[2.522s] running install_egg_info
+[2.526s] Copying ../../build/apriltag_detector/apriltag_detector.egg-info to /home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages/apriltag_detector-0.0.0-py3.10.egg-info
+[2.528s] running install_scripts
+[2.562s] Installing apriltag_detector_node script to /home/naomichen/ros2_ws/install/apriltag_detector/lib/apriltag_detector
+[2.563s] writing list of installed files to '/home/naomichen/ros2_ws/build/apriltag_detector/install.log'
+[2.648s] Invoked command in '/home/naomichen/ros2_ws/src/apriltag_detector' returned '0': PYTHONPATH=/home/naomichen/ros2_ws/build/apriltag_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naomichen/ros2_ws/install/apriltag_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/apriltag_detector build --build-base /home/naomichen/ros2_ws/build/apriltag_detector/build install --record /home/naomichen/ros2_ws/build/apriltag_detector/install.log --single-version-externally-managed install_data

@@ -1,0 +1,36 @@
+[1.595s] Invoking command in '/home/naomichen/ros2_ws/src/turtlebot3_apriltag_follower': PYTHONPATH=/home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_apriltag_follower build --build-base /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build install --record /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/install.log --single-version-externally-managed install_data
+[2.071s] running egg_info
+[2.071s] creating ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info
+[2.072s] writing ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/PKG-INFO
+[2.072s] writing dependency_links to ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/dependency_links.txt
+[2.073s] writing entry points to ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/entry_points.txt
+[2.073s] writing requirements to ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/requires.txt
+[2.073s] writing top-level names to ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/top_level.txt
+[2.073s] writing manifest file '../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/SOURCES.txt'
+[2.076s] reading manifest file '../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/SOURCES.txt'
+[2.078s] writing manifest file '../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info/SOURCES.txt'
+[2.079s] running build
+[2.079s] running build_py
+[2.080s] creating /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build
+[2.080s] creating /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build/lib
+[2.080s] creating /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build/lib/turtlebot3_apriltag_follower
+[2.080s] copying turtlebot3_apriltag_follower/apriltag_follower.py -> /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build/lib/turtlebot3_apriltag_follower
+[2.081s] copying turtlebot3_apriltag_follower/__init__.py -> /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build/lib/turtlebot3_apriltag_follower
+[2.081s] running install
+[2.082s] running install_lib
+[2.084s] creating /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages/turtlebot3_apriltag_follower
+[2.084s] copying /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build/lib/turtlebot3_apriltag_follower/apriltag_follower.py -> /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages/turtlebot3_apriltag_follower
+[2.084s] copying /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build/lib/turtlebot3_apriltag_follower/__init__.py -> /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages/turtlebot3_apriltag_follower
+[2.085s] byte-compiling /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages/turtlebot3_apriltag_follower/apriltag_follower.py to apriltag_follower.cpython-310.pyc
+[2.086s] byte-compiling /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages/turtlebot3_apriltag_follower/__init__.py to __init__.cpython-310.pyc
+[2.087s] running install_data
+[2.087s] creating /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/share/ament_index
+[2.087s] creating /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/share/ament_index/resource_index
+[2.087s] creating /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/share/ament_index/resource_index/packages
+[2.087s] copying resource/turtlebot3_apriltag_follower -> /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/share/ament_index/resource_index/packages
+[2.088s] copying package.xml -> /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/share/turtlebot3_apriltag_follower
+[2.088s] running install_egg_info
+[2.091s] Copying ../../build/turtlebot3_apriltag_follower/turtlebot3_apriltag_follower.egg-info to /home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages/turtlebot3_apriltag_follower-0.0.0-py3.10.egg-info
+[2.092s] running install_scripts
+[2.126s] writing list of installed files to '/home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/install.log'
+[2.159s] Invoked command in '/home/naomichen/ros2_ws/src/turtlebot3_apriltag_follower' returned '0': PYTHONPATH=/home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naomichen/ros2_ws/install/turtlebot3_apriltag_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_apriltag_follower build --build-base /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/build install --record /home/naomichen/ros2_ws/build/turtlebot3_apriltag_follower/install.log --single-version-externally-managed install_data

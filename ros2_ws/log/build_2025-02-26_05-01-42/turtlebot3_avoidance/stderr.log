@@ -1,0 +1,5 @@
+  File "/home/naomichen/ros2_ws/install/turtlebot3_avoidance/lib/python3.10/site-packages/turtlebot3_avoidance/obstacle_avoidance.py", line 6
+    	def__init__(self):
+    	                 ^
+SyntaxError: invalid syntax
+
