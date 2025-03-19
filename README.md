@@ -2,8 +2,8 @@ Please use this alongside my HackMD notes - [ROS2, Turtlebot3, and Apriltag Dete
 
 Detect Apriltag (PC camera only) : ``apriltag_detector`` 
 
-Detect Apriltag - release a ROS2 topic (PC & Turtlebot3) : ``turtlebot3_apriltag`` 
+Detect Apriltag - publish a ROS2 topic (PC & Turtlebot3) : ``turtlebot3_apriltag`` 
 
-Follow Apriltag - release a ROS2 topic (Turtlebot3) : ``turtlebot3_apriltag_follower``
+Follow Apriltag - publish a ROS2 topic (Turtlebot3) : ``turtlebot3_apriltag_follower``
 
 Obstacle Avoidance (Turtlebot3) : ``turtlebot3_avoidance``
